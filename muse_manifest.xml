@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="397963719"/>
     <file name="master_a-____.css" crc="4261980197" ref="index"/>
-    <file name="index.css" crc="4081606930" ref="index"/>
+    <file name="index.css" crc="498404899" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -14,6 +14,22 @@
     <file name="placeholder.jpg" crc="484868967" ref="index"/>
     <file name="screen shot 2014-11-05 at 54654 pm.jpg" crc="3777378033" ref="index"/>
     <file name="screen_shot_2014-11-05_at_5_56_28_pm.jpg" crc="4227449227" ref="index"/>
+    <file name="lp_feature-silver-none-top.jpg" crc="317271784" ref="index"/>
+    <file name="lp_feature-silver-link.jpg" crc="3778453862" ref="index"/>
+    <file name="hotel.jpg" crc="381436677" ref="index"/>
+    <file name="hotei2.png" crc="4005618079" ref="index"/>
+    <file name="place.jpg" crc="3831165204" ref="index"/>
+    <file name="teacher.jpg" crc="223899499" ref="index"/>
+    <file name="class.jpg" crc="433865858" ref="index"/>
+    <file name="voice1.jpg" crc="3763783816" ref="index"/>
+    <file name="voice2.jpg" crc="4134085398" ref="index"/>
+    <file name="check.png" crc="24685484" ref="index"/>
+    <file name="discount1-new-white.jpg" crc="293433580" ref="index"/>
+    <file name="discount2-new-white.jpg" crc="3990983009" ref="index"/>
+    <file name="kazu.jpg" crc="91169639" ref="index"/>
+    <file name="genki.jpg" crc="4256941900" ref="index"/>
+    <file name="s-sally.jpg" crc="337585046" ref="index"/>
+    <file name="s-aki.jpg" crc="4166598207" ref="index"/>
   </folder>
-  <file name="index.html" crc="4249930188" mt="1415242834274" redirect="true"/>
+  <file name="index.html" crc="4243227225" mt="1415264973311" redirect="true"/>
 </manifest>
